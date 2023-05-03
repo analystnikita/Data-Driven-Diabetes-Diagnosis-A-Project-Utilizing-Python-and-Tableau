@@ -1,7 +1,7 @@
 # Data-Driven-Diabetes-Diagnosis-A-Project-Utilizing-Python-and-Tableau
 
 
-This project utilizes a dataset from the National Institute of Diabetes and Digestive and Kidney Diseases to predict whether or not a patient has diabetes based on diagnostic measurements. The dataset includes various medical predictor variables such as the number of pregnancies, BMI, insulin level, age, and more.
+This project utilizes a dataset from the NIDDK (National Institute of Diabetes and Digestive and Kidney Diseases) to predict whether or not a patient has diabetes based on diagnostic measurements. The dataset includes various medical predictor variables such as the number of pregnancies, BMI, insulin level, age, and more.
 
 In the first week of the project, a descriptive analysis was performed to understand the variables and their corresponding values. Histograms were used to visually explore the variables and missing values were treated accordingly. A count plot was also created to describe the data types and the count of variables.
 
